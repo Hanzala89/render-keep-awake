@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping Render backend
-        run: curl -s https://YOUR_BACKEND_URL.onrender.com
+        run: curl -s https://rice-disease-detection-backend-y6k1.onrender.com
